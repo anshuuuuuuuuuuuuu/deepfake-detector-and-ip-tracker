@@ -1,0 +1,3 @@
+__pycache__/
+deepfake_detection_model.h5
+secrets.toml
